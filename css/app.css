@@ -1,0 +1,65 @@
+header {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin: 5rem;
+  gap: 1rem;
+}
+
+header > div {
+  width: 100%;
+}
+
+header .players-name {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3rem;
+}
+
+header .players-name i {
+  font-size: 1.5rem;
+}
+
+header .players-name h2 {
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+}
+
+header .players-name h2.move {
+  background-color: lightgrey;
+}
+
+#board {
+  display: flex;
+  flex-wrap: wrap;
+  width: 300px;
+  height: 300px;
+  margin: 5rem auto;
+}
+
+#board .space {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: calc(100% / 3);
+  height: calc(100% / 3);
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.b-t {
+  border-top: 2px solid gray;
+}
+
+.b-l {
+  border-left: 2px solid gray;
+}
+
+.b-b {
+  border-bottom: 2px solid gray;
+}
+
+.b-r {
+  border-right: 2px solid gray;
+}

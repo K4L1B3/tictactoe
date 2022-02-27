@@ -1,0 +1,42 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tic Tac Toe</title>
+
+    <link rel="stylesheet" href="./css/reset.css" />
+    <link rel="stylesheet" href="./css/app.css" />
+  </head>
+  <body>
+    <header>
+      <div>
+        <h1>Tic Tac Toe</h1>
+      </div>
+      <div class="players-name">
+        <h2 class="move">
+          <strong>X</strong>&nbsp;
+          <span id="player-one-name-display"></span>
+        </h2>
+        <i>vs</i>
+        <h2>
+          <span id="player-two-name-display"></span>
+          &nbsp;<strong>O</strong>
+        </h2>
+      </div>
+    </header>
+    <section id="board">
+      <span class="space b-r b-b"></span>
+      <span class="space b-b"></span>
+      <span class="space b-l b-b"></span>
+      <span class="space b-r"></span>
+      <span class="space"></span>
+      <span class="space b-l"></span>
+      <span class="space b-t b-r"></span>
+      <span class="space b-t"></span>
+      <span class="space b-l b-t"></span>
+    </section>
+
+    <script type="module" src="./js/app.mjs"></script>
+  </body>
+</html>
