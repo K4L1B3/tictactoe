@@ -5,9 +5,9 @@
 <br/>
 <div display="inline" align="center">
 <img src="https://img.shields.io/static/v1?label=Version&message=1.0&color=7159c1&style=for-the-badge&logo=ghost"/>
-<img src="https://img.shields.io/static/v1?label=Progress&message=100%&color=7159c1&style=for-the-badge&logo=ghost"/>
+<img src="https://img.shields.io/static/v1?label=Progress&message=70%&color=7159c1&style=for-the-badge&logo=ghost"/>
 <img src="https://img.shields.io/static/v1?label=Contribution&message=Open&color=7159c1&style=for-the-badge&logo=ghost"/>
-<img src="https://img.shields.io/static/v1?label= Project Stats &message=All right&color=00FF55&style=for-the-badge&logo=ghost"/>
+<img src="https://img.shields.io/static/v1?label= Project Stats &message=Doing&color=FFEC00&style=for-the-badge&logo=ghost"/>
 </div>
 
 <br/>
@@ -36,6 +36,8 @@ The following tools will be used in building the project:
 
 # Demonstration
 
+
+![Screenshot_20220227_132334](https://user-images.githubusercontent.com/45051690/155890603-10fc9062-9829-4882-b439-a837cff10a2d.png)
 
 
 
